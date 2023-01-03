@@ -1,0 +1,4 @@
+Jogo criado usando variáveis e condições aninhadas.
+Usando tanbém a indentificação (int) para relacionar o número do cliente .
+Assim não temos o problema do python fazer uma comparação de um número com um str.
+Causando um somente a alternativa de erro no jogo.
