@@ -48,3 +48,6 @@ def jogar():
 
 
     print('Fim do Jogo')   
+
+if(__name__ =="_main_"):
+    jogar()
