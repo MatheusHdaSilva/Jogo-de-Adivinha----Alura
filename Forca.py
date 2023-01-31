@@ -1,6 +1,9 @@
-print('****************************')
-print('Jogo de adivinhação!')
-print('****************************')
+def jogar():
 
 
-print('Fim do jogo')
+    print('****************************')
+    print('Jogo de Forca!')
+    print('****************************')
+
+
+    print('Fim do jogo')
