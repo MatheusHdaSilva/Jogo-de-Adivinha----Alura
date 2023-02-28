@@ -8,9 +8,8 @@ def jogar():
 palavra_secreta =  'banana'
 
 enforcou = False
-acertou - False
+acertou = False
 
-#enquanto não enforcou e não acertou
 while(not enforcou and not acertou):
     print('jogando...')
 
